@@ -1,8 +1,6 @@
 ### Olá, Eu sou a Adélia Carvalho.👋🏾‍
 ## Seja bem vind@!!
 
-<!--
-**adeliacristine/adeliacristine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 👩🏾‍Estudante Frontend na Laboratória💻
 - 🗺️ Engenheira Agrimensora e Cartógrafa pela UFRRJ🌎
@@ -10,5 +8,10 @@
 - 🏄🏾‍♀️Carioca vivendo em São Paulo- SP🌃
 - 📫Vamos conversar? Me chama no [Linkedin](https://www.linkedin.com/in/ad%C3%A9liacarvalho/)📧
 - ⚡ Fun fact:💃🏾 Forrozeira, Catirina, Batuqueira🥁
+
+
+<!--
+**adeliacristine/adeliacristine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
