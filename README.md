@@ -1,3 +1,5 @@
+![octocat (1)](https://user-images.githubusercontent.com/60454824/88703267-dd2b2500-d0e2-11ea-9fb4-761d14f52a78.png)
+
 ### Olá, Eu sou a Adélia Carvalho.👋🏾‍
 ## Seja bem vind@!!
 
