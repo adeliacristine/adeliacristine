@@ -1,5 +1,6 @@
 ### Olá, Eu sou a Adélia Carvalho.👋🏾‍
-![octocatdellycris](https://user-images.githubusercontent.com/60454824/88990035-57aa9f00-d2b3-11ea-8b38-01a78bef6bba.jpg)
+
+![octocatdc](https://user-images.githubusercontent.com/60454824/88990153-a35d4880-d2b3-11ea-8050-e33fda1de48f.jpg))
 
 ## Seja bem vind@!!
 
