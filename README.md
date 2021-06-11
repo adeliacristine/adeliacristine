@@ -9,7 +9,7 @@
 ## Seja bem vind@!!
 
 
-- 👩🏾‍Estudante Frontend na Laboratória💻
+- 👩🏾‍Analista de Sistema💻
 - 🗺️ Engenheira Agrimensora e Cartógrafa pela UFRRJ🌎
 - 📚 Em constante aprendizado🖊️
 - 🏄🏾‍♀️Carioca vivendo em São Paulo- SP🌃
