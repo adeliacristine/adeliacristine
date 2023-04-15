@@ -12,9 +12,9 @@
 - 👩🏾‍Analista de Sistema💻
 - 🗺️ Engenheira Agrimensora e Cartógrafa pela UFRRJ🌎
 - 📚 Em constante aprendizado🖊️
-- 🏄🏾‍♀️Carioca vivendo em São Paulo- SP🌃
+- 🏄🏾‍♀️Carioca🌃
 - 📫Vamos conversar? Me chama no [Linkedin](www.linkedin.com/in/adéliacarvalho)📧
-- ⚡ Fun fact:💃🏾 Forrozeira, Catirina, Batuqueira🥁
+- ⚡ Fun fact:💃🏾 Forrozeira, Batuqueira🥁
 
 
 
